@@ -1,2 +1,2 @@
-# R-Post-Graduate-Data-Science-Artificial-Intelligence
+# Post-Graduate-Data-Science-Artificial-Intelligence
  
